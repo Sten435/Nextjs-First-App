@@ -10,4 +10,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 See a live preview of the project here: [https://stan-nextjs-app.vercel.app/](https://stan-nextjs-app.vercel.app/)
 
-![screenshot of homepage](https://imgur.com/a/8ePWGDI)
+![screenshot of homepage](https://i.imgur.com/21iezOc.png)
